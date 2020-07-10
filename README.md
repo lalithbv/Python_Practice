@@ -1,2 +1,2 @@
 # Python
-Python personal projects
+My Python personal projects
