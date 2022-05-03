@@ -6,13 +6,12 @@ This program does the following:
 3. User input i.e the position of 'X' or 'O' is accepted and then the symbol is placed on the board
 
 # Project 2: Web Scraping with Python
-
-There are a few libraries you will need, you can go to your command line and install these below:
-'''
+Required libraries:
+```
 pip install requests
 pip install lxml
 pip install bs4
-'''
+```
 ## Task 1
 
 The website: http://books.toscrape.com/index.html is specifically designed for people to scrape it, so there are no copyright violations here.
