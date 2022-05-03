@@ -1,9 +1,9 @@
 # Project 1: Tic Tac Toe
 
 This program does the following:
-1. Two players will be able to play the game (both sitting at the same computer)
-2. The board will be printed out every time a player makes a move
-3. User input i.e the position of 'X' or 'O' is accepted and then the symbol is placed on the board
+1. Two players will be able to play the game (both sitting at the same computer).
+2. The board will be printed out every time a player makes a move.
+3. User input i.e the position of 'X' or 'O' is accepted and then the symbol is placed on the board.
 
 # Project 2: Web Scraping with Python
 Required libraries:
@@ -27,7 +27,7 @@ The following is accomplished:
 
 ## Task 2
 
-Follwing tasks are achieved:
+The following is accomplished:
 1. Used requests library & BeautifulSoup to connect to http://quotes.toscrape.com/ & got the HMTL text from homepage.
 2. Got the names of all the authors in all the pages.
 3. Created a list of all the quotes on the first page.
